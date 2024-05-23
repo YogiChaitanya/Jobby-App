@@ -1,0 +1,21 @@
+.skills-item-container {
+  margin-right: 200px;
+  margin-bottom: 20px;
+}
+
+.skills-card {
+  display: flex;
+  flex-direction: row;
+}
+
+.skill-image {
+  height: 100px;
+  width: 100px;
+}
+
+.skill-name {
+  color: #f1f5f9;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
